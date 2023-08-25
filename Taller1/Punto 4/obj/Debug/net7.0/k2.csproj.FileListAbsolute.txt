@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\k2\bin\Debug\net7.0\k2.exe
+C:\Users\Usuario\Desktop\k2\bin\Debug\net7.0\k2.deps.json
+C:\Users\Usuario\Desktop\k2\bin\Debug\net7.0\k2.runtimeconfig.json
+C:\Users\Usuario\Desktop\k2\bin\Debug\net7.0\k2.dll
+C:\Users\Usuario\Desktop\k2\bin\Debug\net7.0\k2.pdb
+C:\Users\Usuario\Desktop\k2\obj\Debug\net7.0\k2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\k2\obj\Debug\net7.0\k2.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\k2\obj\Debug\net7.0\k2.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\k2\obj\Debug\net7.0\k2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\k2\obj\Debug\net7.0\k2.dll
+C:\Users\Usuario\Desktop\k2\obj\Debug\net7.0\refint\k2.dll
+C:\Users\Usuario\Desktop\k2\obj\Debug\net7.0\k2.pdb
+C:\Users\Usuario\Desktop\k2\obj\Debug\net7.0\k2.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\k2\obj\Debug\net7.0\ref\k2.dll
